@@ -27,19 +27,12 @@ Hi there!, I'm Tyler and I'm a software engineer based in the Atlanta area. I ha
 # Projects
 
 ## BlackJack:
+### To Play Press [HERE](https://blackjacktcc.surge.sh/)
 I developed a fun and interactive version of the classic game Blackjack using HTML, CSS, and JavaScript. This project allowed me to showcase my skills in front-end web development and my passion for creating a modern UI with basic CSS.
 ### Game Preview
 
-<img src="gameImg.png" width="600" height="400">
-<img src="titlePage.png" width="600" height="400">
-
-
-
-<style type="text/css">
-    img {
-
-    }
-</style>
+![gameIng](/gameImg.png)
+![titlePage](titlePage.png)
 
 
 
