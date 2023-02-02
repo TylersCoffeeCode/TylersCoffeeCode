@@ -7,7 +7,7 @@
 
 Hi there!, I'm Tyler and I'm a software engineer based in the Atlanta area. I have experience in developing software applications using HTML, CSS, Git, GitHub, JavaScript, and React.js. I love video games especially ones with a competitive scene 🎮 . 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=TylersCoffeeCode&color=blueviolet)
 # Skills
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
