@@ -5,7 +5,7 @@
 # Tyler Coats - Software Engineer ☕️
 ### Hi there 👋
 
-Hi there!, I'm Tyler and I'm a software engineer based in the Atlanta area. I have experience in developing software applications using HTML, CSS, Git, GitHub, JavaScript, and React.js. I love video games especially ones with a competative scene 🎮 . 
+Hi there!, I'm Tyler and I'm a software engineer based in the Atlanta area. I have experience in developing software applications using HTML, CSS, Git, GitHub, JavaScript, and React.js. I love video games especially ones with a competitive scene 🎮 . 
 
 # Skills
 
@@ -44,17 +44,3 @@ I developed a fun and interactive version of the classic game Blackjack using HT
 Feel free to reach out to me on coatsctyler@gmail.com or [LinkedIn](https://www.linkedin.com/in/tylerccoats/)
 
 Thanks for visiting my profile!
-<!--
-**TylersCoffeeCode/TylersCoffeeCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
