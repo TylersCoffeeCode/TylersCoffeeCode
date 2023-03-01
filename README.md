@@ -20,10 +20,6 @@ Hi there!, I'm Tyler and I'm a software engineer based in the Atlanta area. I de
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 
-<a href="https://github.com/TylersCoffeeCode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TylersCoffeeCode&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylersCoffeeCode&theme=radical&layout=compact" />
-</a>
 
 # Projects
 
