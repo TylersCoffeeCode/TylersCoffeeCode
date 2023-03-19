@@ -3,38 +3,33 @@
 
 
 # Tyler Coats - Software Engineer ☕️
-### Hi there 👋
+### Hi there 👋🏻
 
 Hi there!, I'm Tyler and I'm a software engineer based in the Atlanta area. I develop software applications using HTML, CSS, Git, GitHub, JavaScript, and React.js. I love video games especially ones with a competitive scene 🎮 
 
 ![](https://komarev.com/ghpvc/?username=TylersCoffeeCode&color=blueviolet)
 # Skills
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,vue,nodejs,express,mongodb,postgres,py,flask,vscode,postman,figma,ps)](https://skillicons.dev)
+  
 
 
 
-# Projects
+# Featured Project
 
-## BlackJack:
-### To Play Press [HERE](https://blackjacktcc.surge.sh/)
-I developed a fun and interactive version of the classic game Blackjack using HTML, CSS, and JavaScript. This project allowed me to showcase my skills in front-end web development and my passion for creating a modern UI with basic CSS.
-### Game Preview
+## [LIVE](https://sous-chef-fe.herokuapp.com/) | [GitHub](https://github.com/AdamMontemurro/sous_chef_client)
+## Sous Chef | March 2023 | PostgreSQL | Express | React | Node | JavaScript
 
-![gameIng](/gameImg.png)
-![titlePage](titlePage.png)
+![Sous_chef_img](https://i.imgur.com/v6hQceD.jpg)
+
+### Developed a user-generated recipe platform using JWT Auth to enable users to explore, create, and share recipes with others.
+### Designed and implemented a user-friendly interface that allows users to easily navigate and discover a wide range of culinary delights.
+
 
 
 
 # Experience
--Completing 480 hours of expert-led instruction in JavaScript, Python, React, Django, Node.js, and hands-on learning of full stack software development in the industry's most in demand technologies.
+-Completing 480+ hours of expert-led instruction in JavaScript, Python, React, Django, Node.js, and hands-on learning of full stack software development in the industry's most in demand technologies.
 
 
 # Contact Me
