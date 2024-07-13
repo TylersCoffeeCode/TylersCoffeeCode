@@ -1,11 +1,7 @@
-
-![Banner](https://i.imgur.com/FkEfeBQ.png)
-
-
-# Tyler Coats - Software Engineer ☕️
+# Tyler Coats - Programmer ☕️
 ### Hi there 👋🏻
 
-Hi there!, I'm Tyler and I'm a software engineer based in the Atlanta area. I develop software applications using HTML, CSS, Git, GitHub, JavaScript, and React.js. I love video games especially ones with a competitive scene 🎮 
+Hi there!, I'm Tyler and I'm a programmer based in the Atlanta area. I develop software applications using HTML, CSS, Git, GitHub, JavaScript, and React.js. I love video games especially ones with a competitive scene 🎮 
 
 ![](https://komarev.com/ghpvc/?username=TylersCoffeeCode&color=blueviolet)
 # Skills
